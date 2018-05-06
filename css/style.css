@@ -47,6 +47,14 @@ img {
 	margin: 40px 8px;
 }
 
+button {
+	width: 70px;
+	height: 30px;
+	background-color: #00a6b3;
+	font-weight: 400;
+	font-size: 16px;
+}
+
 footer {
 	text-transform: uppercase;
 	padding: 0 20px;
